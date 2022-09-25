@@ -13,7 +13,7 @@ import Contact from './components/contact/Contact';
 const App = () => {
   return (
     <>
-      <main className='root'>
+      <main className='main'>
       <Sidebar />
         <Home />
         <About />
